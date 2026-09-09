@@ -1,0 +1,6 @@
+{
+  "name": "Maps Clock Weather",
+  "description": "Unified Maps, World Clock, and Live Weather app made by HappyCommunity",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
